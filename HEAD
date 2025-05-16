@@ -1,1 +1,15 @@
-ref: refs/heads/main
+0000000000000000000000000000000000000000 4b31331fcec47a97b22a96a8ffe407444533af8a Yehia <yehiaselim16@gmail.com> 1747168998 +0300	commit (initial): first commit
+4b31331fcec47a97b22a96a8ffe407444533af8a 0000000000000000000000000000000000000000 Yehia <yehiaselim16@gmail.com> 1747169006 +0300	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 4b31331fcec47a97b22a96a8ffe407444533af8a Yehia <yehiaselim16@gmail.com> 1747169006 +0300	Branch: renamed refs/heads/master to refs/heads/main
+4b31331fcec47a97b22a96a8ffe407444533af8a 1d0c48bb0d4f1c021362d7eb7429939875127cd1 Yehia <yehiaselim16@gmail.com> 1747171926 +0300	commit: WORKING WITH NO DELETION
+1d0c48bb0d4f1c021362d7eb7429939875127cd1 ac0894c618683a0bb780387c3713ebd79361d894 Yehia <yehiaselim16@gmail.com> 1747245553 +0300	commit: deletion not working yet
+ac0894c618683a0bb780387c3713ebd79361d894 e2f3c2b4be66f44ad3a499d5fbc90c947090c808 Yehia <yehiaselim16@gmail.com> 1747264976 +0300	commit: DELETION FIXED
+e2f3c2b4be66f44ad3a499d5fbc90c947090c808 347ce4657c42730ecd003f96251fed8ceeba2eae Yehia <yehiaselim16@gmail.com> 1747269963 +0300	commit: FIXED GITHUB AND GOOGLE SIGN IN
+347ce4657c42730ecd003f96251fed8ceeba2eae 347ce4657c42730ecd003f96251fed8ceeba2eae Yehia <yehiaselim16@gmail.com> 1747270341 +0300	checkout: moving from main to main
+347ce4657c42730ecd003f96251fed8ceeba2eae 0badbe15fb9324cdd9c477f76426af5a15692a2d Yehia <yehiaselim16@gmail.com> 1747270423 +0300	commit: `Refactored OAuth login endpoints to handle session management and 2FA checks`
+0badbe15fb9324cdd9c477f76426af5a15692a2d 7ec53730bd415fd67548289437234f45f94aee76 Yehia <yehiaselim16@gmail.com> 1747270431 +0300	commit: `Refactored OAuth login endpoints to handle session management and 2FA checks`
+7ec53730bd415fd67548289437234f45f94aee76 1ec12a29ed7b1725428ec709c425a04de791dae6 Yehia <yehiaselim16@gmail.com> 1747270971 +0300	commit: FIXED GITHUB AND GOOGLE AUTH
+1ec12a29ed7b1725428ec709c425a04de791dae6 11f067f11072ca185224a52bbc8d57f63638cdec Yehia <yehiaselim16@gmail.com> 1747320407 +0300	commit: last
+11f067f11072ca185224a52bbc8d57f63638cdec f5e2cc3ee91a1401729375a3d683cf978c28f188 tamora77 <mohamedtamerthebigboss> 1747359166 +0300	commit: Initial commit for final project
+f5e2cc3ee91a1401729375a3d683cf978c28f188 0000000000000000000000000000000000000000 tamora77 <mohamedtamerthebigboss> 1747359262 +0300	Branch: renamed refs/heads/main to refs/heads/main
+f5e2cc3ee91a1401729375a3d683cf978c28f188 f5e2cc3ee91a1401729375a3d683cf978c28f188 tamora77 <mohamedtamerthebigboss> 1747359262 +0300	Branch: renamed refs/heads/main to refs/heads/main
